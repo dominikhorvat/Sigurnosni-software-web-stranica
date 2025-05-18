@@ -1,0 +1,26 @@
+/*ZA GUMB*/
+.crven:link, .crven:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+.crven:hover, .crven:active {
+    background-color: red;
+  }
+
+.zeleni:link, .zeleni:visited {
+    background-color: hsl(125, 100%, 32%);
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+.zeleni:hover, .zeleni:active {
+    background-color: hsl(125, 100%, 32%);
+  }

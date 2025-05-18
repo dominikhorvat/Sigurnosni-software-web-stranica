@@ -1,0 +1,59 @@
+.px20{
+    font-size: 20px;
+}
+
+.px24{
+    font-size: 24px;
+}
+
+.px32{
+    font-size: 32px;
+}
+
+.px18{
+    font-size: 18px;
+}
+
+#px15{
+    font-size: 15px;
+}
+
+#px45{
+    font-size: 45px;
+}
+
+#px64{
+    font-size: 64px;
+}
+
+#garamod_slova{
+ font-family: 'Garamod'
+}
+
+#lucida_slova{
+    font-family: 'Lucida'
+}
+
+.comic_sans_ms{
+    font-family: 'Comic Sans MS';
+    font-size: 32px;
+    text-shadow: 0 0 3px #ffffff, 0 0 5px #f12dff;
+}
+
+.georgia_slova{
+    font-family: 'Georgia';
+}
+
+.naslov_centriran{
+    font-family: 'Georgia';
+    font-size: 40px;
+}
+
+.podnaslov{
+    font-size: 25px;
+}
+
+#outlined-text {
+    text-shadow: 0 0 3px #00eaffe3, 0 0 5px #0000FF;
+    font-size: 52px;
+  }

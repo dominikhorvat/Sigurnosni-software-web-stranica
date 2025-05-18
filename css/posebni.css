@@ -1,0 +1,68 @@
+div{
+    text-align: justify;
+}
+
+body {
+  background-image: url('brojevi.gif');
+  color: black;
+}
+h1{
+        color: white;
+    }
+    
+    h2, h3, h4{
+        color: black;
+    } 
+
+h1 {
+text-align:center;font-family:fantasy;
+    }
+    
+h2	{
+font-family: monospace;
+    }
+
+#header {
+	letter-spacing: 1.2ex;
+	clear: both;
+	padding: 1.2em;
+	text-align: center;
+	background-color: #323232;
+
+}
+
+footer{
+	clear: both;
+	background: #454545;
+	color: white;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+	text-align: center;
+}
+
+table, td, th {
+    background-color:gray;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    border-collapse: collapse ;
+    }
+
+th{
+    background-color: rgb(80, 77, 77);
+    color: white;
+}
+
+.bijeli_blok{
+    background: ghostwhite; 
+    font-size: 20px; 
+    padding: 10px; 
+    border: 1px solid lightgray; 
+    margin: 50px;
+}
+
+#smjesko{
+    width:20px;
+    height:20px;
+}
